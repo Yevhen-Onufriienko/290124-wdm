@@ -1,2 +1,2 @@
-My_name=Yevhen_Onufriienko
+My_name=Yevhen_Onufriienko.
 
